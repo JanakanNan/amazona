@@ -8,8 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JanakanNan/amazona.git"
-  },
+    "url": "git+https://github.com/JanakanNan/amazona",
   "author": "JNandakumaran",
   "license": "ISC",
   "bugs": {
@@ -26,4 +25,5 @@
     "@babel/preset-env": "^7.12.7",
     "nodemon": "^2.0.6"
   }
+ }
 }
